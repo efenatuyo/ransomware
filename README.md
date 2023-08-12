@@ -1,0 +1,2 @@
+# ransomware
+self spreading ransomware 
